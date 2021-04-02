@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/haroonrashid/Documents/new/crispy-enigma/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1617365293714,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa86c7a70f39990a9303d6d1685f68b8",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1153,16 +1143,14 @@
         "author": "Aman Mittal",
         "description": "A Gatsby.js Starter based on Ceevee by Styleshout"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2021-04-02T12:08:09.444Z",
+      "buildTime": "2021-04-02T12:13:36.618Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1975e85284907ac2406e66cfe8b0ab6a",
+        "contentDigest": "c5d12ea3003b35a036777ceb88cbad8f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2572,27 +2560,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1617365293724,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d8ec09902029a59c536274df0ed9a6b5",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2601,7 +2568,7 @@
       "component": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1617365293725,
+      "updatedAt": 1617365623430,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
@@ -2610,7 +2577,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc132de5a02b61f23eb8bde911126cfb",
+        "contentDigest": "0ce96976a277e2587316096cf94f111d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1617365623431,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ec722775a37b30c1ae8a4a9227c993ed",
         "owner": "internal-data-bridge"
       }
     },
@@ -2622,7 +2610,7 @@
       "component": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1617365293728,
+      "updatedAt": 1617365623433,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
@@ -2631,7 +2619,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d8c91f35b76fef003929342db6309d49",
+        "contentDigest": "9299469a7c93d9e7a09cadb8c53741ef",
         "owner": "internal-data-bridge"
       }
     }
