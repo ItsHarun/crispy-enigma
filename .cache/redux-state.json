@@ -1,0 +1,2651 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/haroonrashid/Documents/new/crispy-enigma/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1617365293714,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa86c7a70f39990a9303d6d1685f68b8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1f76f62fd2e6d127ce29da0ab702eb90",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "183de4832d0435ca2843f1961f387637",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a0b3a8a23e810f7ea46c13d06f26bb99",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "523185bd4a221f500ad6487c53835a25",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6cceb4d5918452c7d9b8db72502edd36",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d6f75ee7ac3ecec78702716a678a3d9e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.10",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography.js"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6810cdf036f1dadabfa6e9af59b2cbbe",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.9",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.9",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ec080432a4c6f9c6e5d41d4168c750b8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-fonts": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-google-fonts",
+      "id": "Plugin gatsby-plugin-google-fonts",
+      "name": "gatsby-plugin-google-fonts",
+      "version": "0.0.3",
+      "pluginOptions": {
+        "plugins": [],
+        "fonts": [
+          "librebaskerville",
+          "open sans"
+        ]
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-google-fonts",
+      "packageJson": {
+        "name": "gatsby-plugin-google-fonts",
+        "description": "Bring Google Fonts to Gatsby",
+        "version": "0.0.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "react",
+          "google",
+          "fonts"
+        ],
+        "author": {
+          "name": "Didier Franc",
+          "email": "dev@didierfranc.com"
+        },
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d9d9211219b9ef1796c4ef891b747f60",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.23",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.36",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 630
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.25",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-copy-linked-files"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.23",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2fea46e834fa749be30517fe6ce8b2f1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.36",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 630
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.36",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "image",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.24"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c8e1713c6a3360cfaf33114d19e94de3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.25",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.25",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4335a6f4473651fff31118ef770034c7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.16",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "be7b0c56b0d41b5b49e52d2c2bcb8ee9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.17.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b5fa4c74200e64605238444e87e75a87",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d2f36f86e58e1f2756e262793d231150",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "extract-text-webpack-plugin",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3ce931ff4ac95adce65bc63efbe5b056",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/haroonrashid/Documents/new/crispy-enigma",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "a92325b16005be4cee9829690210fe3f",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/haroonrashid/Documents/new/crispy-enigma",
+      "packageJson": {
+        "name": "gatsby-starter-ceevee",
+        "description": "Gatsby Starter - CeeVee ",
+        "version": "1.0.1",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Aman Mittal <amandeepmittal@live.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.145"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.32"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.12"
+          },
+          {
+            "name": "gatsby-plugin-google-fonts",
+            "version": "0.0.3"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.14"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "1.7.10"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.9"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.33"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.8"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.21"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.14"
+          },
+          {
+            "name": "libvips",
+            "version": "0.0.2"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.9.4"
+          },
+          {
+            "name": "react-icons",
+            "version": "2.2.7"
+          },
+          {
+            "name": "react-slick",
+            "version": "0.16.0"
+          },
+          {
+            "name": "slick-carousel",
+            "version": "1.8.1"
+          },
+          {
+            "name": "typography-theme-bootstrap",
+            "version": "0.16.7"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.9.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "71eb374917e1bb5144a6aa5aa726e35a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Starter - Ceevee",
+        "author": "Aman Mittal",
+        "description": "A Gatsby.js Starter based on Ceevee by Styleshout"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2021-04-02T12:08:09.444Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1975e85284907ac2406e66cfe8b0ab6a",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4b8372952281a4527ad2932160430f0c",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 320,
+      "prettySize": "320 B",
+      "modifiedTime": "2021-03-31T11:13:54.661Z",
+      "accessTime": "2021-04-02T12:07:58.779Z",
+      "changeTime": "2021-04-02T12:07:58.790Z",
+      "birthTime": "2021-03-31T11:13:54.637Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 10,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503653,
+      "blocks": 0,
+      "atimeMs": 1617365278778.691,
+      "mtimeMs": 1617189234660.9248,
+      "ctimeMs": 1617365278790.271,
+      "birthtimeMs": 1617189234636.8525,
+      "atime": "2021-04-02T12:07:58.779Z",
+      "mtime": "2021-03-31T11:13:54.661Z",
+      "ctime": "2021-04-02T12:07:58.790Z",
+      "birthtime": "2021-03-31T11:13:54.637Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c99189b114efc3373b8189fb268d95b2",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "relativePath": "portfolio",
+      "extension": "",
+      "size": 352,
+      "prettySize": "352 B",
+      "modifiedTime": "2021-03-31T11:13:54.659Z",
+      "accessTime": "2021-04-02T12:07:58.772Z",
+      "changeTime": "2021-04-02T12:07:58.788Z",
+      "birthTime": "2021-03-31T11:13:54.644Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "portfolio",
+      "ext": "",
+      "name": "portfolio",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 11,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503659,
+      "blocks": 0,
+      "atimeMs": 1617365278771.9558,
+      "mtimeMs": 1617189234659.133,
+      "ctimeMs": 1617365278787.7864,
+      "birthtimeMs": 1617189234643.7612,
+      "atime": "2021-04-02T12:07:58.772Z",
+      "mtime": "2021-03-31T11:13:54.659Z",
+      "ctime": "2021-04-02T12:07:58.788Z",
+      "birthtime": "2021-03-31T11:13:54.644Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "467b1288b7789a281d9c644b994e141e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "relativePath": "portfolio/modals",
+      "extension": "",
+      "size": 320,
+      "prettySize": "320 B",
+      "modifiedTime": "2021-03-31T11:13:54.657Z",
+      "accessTime": "2021-04-02T12:07:58.777Z",
+      "changeTime": "2021-04-02T12:07:58.785Z",
+      "birthTime": "2021-03-31T11:13:54.649Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "modals",
+      "ext": "",
+      "name": "modals",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 10,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503666,
+      "blocks": 0,
+      "atimeMs": 1617365278776.6833,
+      "mtimeMs": 1617189234656.9688,
+      "ctimeMs": 1617365278785.1455,
+      "birthtimeMs": 1617189234649.169,
+      "atime": "2021-04-02T12:07:58.777Z",
+      "mtime": "2021-03-31T11:13:54.657Z",
+      "ctime": "2021-04-02T12:07:58.785Z",
+      "birthtime": "2021-03-31T11:13:54.649Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-bg.png absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-bg.png absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-bg.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9176109b8b53b0cd9be8b698b720be5e",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-bg.png",
+      "relativePath": "overlay-bg.png",
+      "extension": "png",
+      "size": 935,
+      "prettySize": "935 B",
+      "modifiedTime": "2021-03-31T11:13:54.643Z",
+      "accessTime": "2021-03-31T11:40:08.805Z",
+      "changeTime": "2021-04-02T12:07:58.790Z",
+      "birthTime": "2021-03-31T11:13:54.642Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "overlay-bg.png",
+      "ext": ".png",
+      "name": "overlay-bg",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503678,
+      "blocks": 8,
+      "atimeMs": 1617190808804.5857,
+      "mtimeMs": 1617189234642.5894,
+      "ctimeMs": 1617365278790.1138,
+      "birthtimeMs": 1617189234642.2764,
+      "atime": "2021-03-31T11:40:08.805Z",
+      "mtime": "2021-03-31T11:13:54.643Z",
+      "ctime": "2021-04-02T12:07:58.790Z",
+      "birthtime": "2021-03-31T11:13:54.642Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-zoom.png absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-zoom.png absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a7d6622a9770d821ce7244048eb81b4c",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-zoom.png",
+      "relativePath": "overlay-zoom.png",
+      "extension": "png",
+      "size": 2824,
+      "prettySize": "2.82 kB",
+      "modifiedTime": "2021-03-31T11:13:54.643Z",
+      "accessTime": "2021-03-31T11:40:08.915Z",
+      "changeTime": "2021-04-02T12:07:58.764Z",
+      "birthTime": "2021-03-31T11:13:54.643Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "overlay-zoom.png",
+      "ext": ".png",
+      "name": "overlay-zoom",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503655,
+      "blocks": 8,
+      "atimeMs": 1617190808915.2964,
+      "mtimeMs": 1617189234643.4084,
+      "ctimeMs": 1617365278764.3992,
+      "birthtimeMs": 1617189234643.0942,
+      "atime": "2021-03-31T11:40:08.915Z",
+      "mtime": "2021-03-31T11:13:54.643Z",
+      "ctime": "2021-04-02T12:07:58.764Z",
+      "birthtime": "2021-03-31T11:13:54.643Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/loader.gif absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/loader.gif absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b41bfcf37a8a365d2c101c9931bc0e75",
+        "mediaType": "image/gif",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/loader.gif",
+      "relativePath": "loader.gif",
+      "extension": "gif",
+      "size": 3256,
+      "prettySize": "3.26 kB",
+      "modifiedTime": "2021-03-31T11:13:54.642Z",
+      "accessTime": "2021-03-31T11:40:08.719Z",
+      "changeTime": "2021-04-02T12:07:58.768Z",
+      "birthTime": "2021-03-31T11:13:54.641Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "loader.gif",
+      "ext": ".gif",
+      "name": "loader",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503657,
+      "blocks": 8,
+      "atimeMs": 1617190808719.2114,
+      "mtimeMs": 1617189234641.5781,
+      "ctimeMs": 1617365278767.5574,
+      "birthtimeMs": 1617189234641.3389,
+      "atime": "2021-03-31T11:40:08.719Z",
+      "mtime": "2021-03-31T11:13:54.642Z",
+      "ctime": "2021-04-02T12:07:58.768Z",
+      "birthtime": "2021-03-31T11:13:54.641Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/profilepic.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/profilepic.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/profilepic.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/profilepic.jpg",
+      "relativePath": "profilepic.jpg",
+      "extension": "jpg",
+      "size": 6766,
+      "prettySize": "6.77 kB",
+      "modifiedTime": "2021-03-31T11:13:54.661Z",
+      "accessTime": "2021-03-31T11:40:08.962Z",
+      "changeTime": "2021-04-02T12:07:58.766Z",
+      "birthTime": "2021-03-31T11:13:54.660Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "profilepic.jpg",
+      "ext": ".jpg",
+      "name": "profilepic",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503656,
+      "blocks": 16,
+      "atimeMs": 1617190808961.7295,
+      "mtimeMs": 1617189234660.5667,
+      "ctimeMs": 1617365278766.0273,
+      "birthtimeMs": 1617189234660.4043,
+      "atime": "2021-03-31T11:40:08.962Z",
+      "mtime": "2021-03-31T11:13:54.661Z",
+      "ctime": "2021-04-02T12:07:58.766Z",
+      "birthtime": "2021-03-31T11:13:54.660Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/sample-image.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/sample-image.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/sample-image.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a6a76c7e087849f9223e1839338779e9",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/sample-image.jpg",
+      "relativePath": "sample-image.jpg",
+      "extension": "jpg",
+      "size": 26133,
+      "prettySize": "26.1 kB",
+      "modifiedTime": "2021-03-31T11:13:54.661Z",
+      "accessTime": "2021-03-31T11:40:08.964Z",
+      "changeTime": "2021-04-02T12:07:58.789Z",
+      "birthTime": "2021-03-31T11:13:54.661Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "sample-image.jpg",
+      "ext": ".jpg",
+      "name": "sample-image",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503677,
+      "blocks": 56,
+      "atimeMs": 1617190808964.0042,
+      "mtimeMs": 1617189234660.8057,
+      "ctimeMs": 1617365278788.9895,
+      "birthtimeMs": 1617189234660.6855,
+      "atime": "2021-03-31T11:40:08.964Z",
+      "mtime": "2021-03-31T11:13:54.661Z",
+      "ctime": "2021-04-02T12:07:58.789Z",
+      "birthtime": "2021-03-31T11:13:54.661Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9a5510b73fa8e35066c047347b3e02e3",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-coffee.jpg",
+      "relativePath": "portfolio/modals/m-coffee.jpg",
+      "extension": "jpg",
+      "size": 59618,
+      "prettySize": "59.6 kB",
+      "modifiedTime": "2021-03-31T11:13:54.650Z",
+      "accessTime": "2021-04-02T12:08:12.995Z",
+      "changeTime": "2021-04-02T12:07:58.785Z",
+      "birthTime": "2021-03-31T11:13:54.649Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-coffee.jpg",
+      "ext": ".jpg",
+      "name": "m-coffee",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503674,
+      "blocks": 120,
+      "atimeMs": 1617365292994.7312,
+      "mtimeMs": 1617189234649.7869,
+      "ctimeMs": 1617365278784.9854,
+      "birthtimeMs": 1617189234649.2615,
+      "atime": "2021-04-02T12:08:12.995Z",
+      "mtime": "2021-03-31T11:13:54.650Z",
+      "ctime": "2021-04-02T12:07:58.785Z",
+      "birthtime": "2021-03-31T11:13:54.649Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/coffee.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/coffee.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/coffee.jpg",
+      "relativePath": "portfolio/coffee.jpg",
+      "extension": "jpg",
+      "size": 75261,
+      "prettySize": "75.3 kB",
+      "modifiedTime": "2021-03-31T11:13:54.645Z",
+      "accessTime": "2021-04-02T12:08:12.993Z",
+      "changeTime": "2021-04-02T12:07:58.771Z",
+      "birthTime": "2021-03-31T11:13:54.644Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "coffee.jpg",
+      "ext": ".jpg",
+      "name": "coffee",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503660,
+      "blocks": 152,
+      "atimeMs": 1617365292993.1575,
+      "mtimeMs": 1617189234644.6501,
+      "ctimeMs": 1617365278771.4788,
+      "birthtimeMs": 1617189234644.2378,
+      "atime": "2021-04-02T12:08:12.993Z",
+      "mtime": "2021-03-31T11:13:54.645Z",
+      "ctime": "2021-04-02T12:07:58.771Z",
+      "birthtime": "2021-03-31T11:13:54.644Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/console.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/console.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/console.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "10a557caba8bdbb1f030609c669e4314",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/console.jpg",
+      "relativePath": "portfolio/console.jpg",
+      "extension": "jpg",
+      "size": 104406,
+      "prettySize": "104 kB",
+      "modifiedTime": "2021-03-31T11:13:54.645Z",
+      "accessTime": "2021-04-02T12:08:12.993Z",
+      "changeTime": "2021-04-02T12:07:58.787Z",
+      "birthTime": "2021-03-31T11:13:54.645Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "console.jpg",
+      "ext": ".jpg",
+      "name": "console",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503675,
+      "blocks": 208,
+      "atimeMs": 1617365292993.3193,
+      "mtimeMs": 1617189234645.4084,
+      "ctimeMs": 1617365278786.5667,
+      "birthtimeMs": 1617189234644.7957,
+      "atime": "2021-04-02T12:08:12.993Z",
+      "mtime": "2021-03-31T11:13:54.645Z",
+      "ctime": "2021-04-02T12:07:58.787Z",
+      "birthtime": "2021-03-31T11:13:54.645Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/origami.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/origami.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/origami.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5bb3df6308eaa82bdf74a53d339f6b86",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/origami.jpg",
+      "relativePath": "portfolio/origami.jpg",
+      "extension": "jpg",
+      "size": 83530,
+      "prettySize": "83.5 kB",
+      "modifiedTime": "2021-03-31T11:13:54.659Z",
+      "accessTime": "2021-04-02T12:08:12.997Z",
+      "changeTime": "2021-04-02T12:07:58.788Z",
+      "birthTime": "2021-03-31T11:13:54.658Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "origami.jpg",
+      "ext": ".jpg",
+      "name": "origami",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503676,
+      "blocks": 168,
+      "atimeMs": 1617365292997.413,
+      "mtimeMs": 1617189234658.845,
+      "ctimeMs": 1617365278787.6826,
+      "birthtimeMs": 1617189234658.2085,
+      "atime": "2021-04-02T12:08:12.997Z",
+      "mtime": "2021-03-31T11:13:54.659Z",
+      "ctime": "2021-04-02T12:07:58.788Z",
+      "birthtime": "2021-03-31T11:13:54.658Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/into-the-light.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/into-the-light.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/into-the-light.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3445f11c05b5a0608b39f3b2cbb0bbf4",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/into-the-light.jpg",
+      "relativePath": "portfolio/into-the-light.jpg",
+      "extension": "jpg",
+      "size": 102255,
+      "prettySize": "102 kB",
+      "modifiedTime": "2021-03-31T11:13:54.648Z",
+      "accessTime": "2021-04-02T12:08:12.994Z",
+      "changeTime": "2021-04-02T12:07:58.775Z",
+      "birthTime": "2021-03-31T11:13:54.648Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "into-the-light.jpg",
+      "ext": ".jpg",
+      "name": "into-the-light",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503663,
+      "blocks": 200,
+      "atimeMs": 1617365292994.1604,
+      "mtimeMs": 1617189234648.2532,
+      "ctimeMs": 1617365278774.8508,
+      "birthtimeMs": 1617189234647.5505,
+      "atime": "2021-04-02T12:08:12.994Z",
+      "mtime": "2021-03-31T11:13:54.648Z",
+      "ctime": "2021-04-02T12:07:58.775Z",
+      "birthtime": "2021-03-31T11:13:54.648Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f20aeacdaa64a9eb8f9eef9554245d48",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-intothelight.jpg",
+      "relativePath": "portfolio/modals/m-intothelight.jpg",
+      "extension": "jpg",
+      "size": 112530,
+      "prettySize": "113 kB",
+      "modifiedTime": "2021-03-31T11:13:54.655Z",
+      "accessTime": "2021-04-02T12:08:12.996Z",
+      "changeTime": "2021-04-02T12:07:58.780Z",
+      "birthTime": "2021-03-31T11:13:54.654Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-intothelight.jpg",
+      "ext": ".jpg",
+      "name": "m-intothelight",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503669,
+      "blocks": 224,
+      "atimeMs": 1617365292996.105,
+      "mtimeMs": 1617189234655.1248,
+      "ctimeMs": 1617365278779.6558,
+      "birthtimeMs": 1617189234654.4087,
+      "atime": "2021-04-02T12:08:12.996Z",
+      "mtime": "2021-03-31T11:13:54.655Z",
+      "ctime": "2021-04-02T12:07:58.780Z",
+      "birthtime": "2021-03-31T11:13:54.654Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-origami.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-origami.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0f03a9bee6e8f1f6b48007d6c096dad9",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-origami.jpg",
+      "relativePath": "portfolio/modals/m-origami.jpg",
+      "extension": "jpg",
+      "size": 77689,
+      "prettySize": "77.7 kB",
+      "modifiedTime": "2021-03-31T11:13:54.657Z",
+      "accessTime": "2021-04-02T12:08:12.997Z",
+      "changeTime": "2021-04-02T12:07:58.781Z",
+      "birthTime": "2021-03-31T11:13:54.656Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-origami.jpg",
+      "ext": ".jpg",
+      "name": "m-origami",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503670,
+      "blocks": 152,
+      "atimeMs": 1617365292996.8518,
+      "mtimeMs": 1617189234656.8372,
+      "ctimeMs": 1617365278780.6516,
+      "birthtimeMs": 1617189234656.38,
+      "atime": "2021-04-02T12:08:12.997Z",
+      "mtime": "2021-03-31T11:13:54.657Z",
+      "ctime": "2021-04-02T12:07:58.781Z",
+      "birthtime": "2021-03-31T11:13:54.656Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-bg.png absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-bg.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-bg.png absPath of file",
+      "internal": {
+        "contentDigest": "9176109b8b53b0cd9be8b698b720be5e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-zoom.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/overlay-zoom.png absPath of file",
+      "internal": {
+        "contentDigest": "a7d6622a9770d821ce7244048eb81b4c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/profilepic.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/profilepic.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/profilepic.jpg absPath of file",
+      "internal": {
+        "contentDigest": "7e773edecdc38561e4d4bcd2606811f3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/sample-image.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/sample-image.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/sample-image.jpg absPath of file",
+      "internal": {
+        "contentDigest": "a6a76c7e087849f9223e1839338779e9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-coffee.jpg absPath of file",
+      "internal": {
+        "contentDigest": "9a5510b73fa8e35066c047347b3e02e3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/girl.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/girl.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/girl.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a95478b7f3fbeb159495ca2d36a6ccb7",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/girl.jpg",
+      "relativePath": "portfolio/girl.jpg",
+      "extension": "jpg",
+      "size": 150080,
+      "prettySize": "150 kB",
+      "modifiedTime": "2021-03-31T11:13:54.647Z",
+      "accessTime": "2021-04-02T12:08:12.994Z",
+      "changeTime": "2021-04-02T12:07:58.776Z",
+      "birthTime": "2021-03-31T11:13:54.647Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "girl.jpg",
+      "ext": ".jpg",
+      "name": "girl",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503664,
+      "blocks": 296,
+      "atimeMs": 1617365292993.876,
+      "mtimeMs": 1617189234647.4365,
+      "ctimeMs": 1617365278775.7617,
+      "birthtimeMs": 1617189234646.88,
+      "atime": "2021-04-02T12:08:12.994Z",
+      "mtime": "2021-03-31T11:13:54.647Z",
+      "ctime": "2021-04-02T12:07:58.776Z",
+      "birthtime": "2021-03-31T11:13:54.647Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/coffee.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/coffee.jpg absPath of file",
+      "internal": {
+        "contentDigest": "de06f5d908fc33bb083d947ca23d0a7f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/console.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/console.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/console.jpg absPath of file",
+      "internal": {
+        "contentDigest": "10a557caba8bdbb1f030609c669e4314",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/origami.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/origami.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/origami.jpg absPath of file",
+      "internal": {
+        "contentDigest": "5bb3df6308eaa82bdf74a53d339f6b86",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/into-the-light.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/into-the-light.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/into-the-light.jpg absPath of file",
+      "internal": {
+        "contentDigest": "3445f11c05b5a0608b39f3b2cbb0bbf4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-intothelight.jpg absPath of file",
+      "internal": {
+        "contentDigest": "f20aeacdaa64a9eb8f9eef9554245d48",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-origami.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-origami.jpg absPath of file",
+      "internal": {
+        "contentDigest": "0f03a9bee6e8f1f6b48007d6c096dad9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/judah.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/judah.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f5bf96d39756b9a7267076a3b81a5e98",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/judah.jpg",
+      "relativePath": "portfolio/judah.jpg",
+      "extension": "jpg",
+      "size": 197288,
+      "prettySize": "197 kB",
+      "modifiedTime": "2021-03-31T11:13:54.649Z",
+      "accessTime": "2021-04-02T12:08:12.994Z",
+      "changeTime": "2021-04-02T12:07:58.777Z",
+      "birthTime": "2021-03-31T11:13:54.648Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "judah.jpg",
+      "ext": ".jpg",
+      "name": "judah",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503665,
+      "blocks": 392,
+      "atimeMs": 1617365292994.36,
+      "mtimeMs": 1617189234649.039,
+      "ctimeMs": 1617365278776.5955,
+      "birthtimeMs": 1617189234648.3704,
+      "atime": "2021-04-02T12:08:12.994Z",
+      "mtime": "2021-03-31T11:13:54.649Z",
+      "ctime": "2021-04-02T12:07:58.777Z",
+      "birthtime": "2021-03-31T11:13:54.648Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/farmerboy.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/farmerboy.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/farmerboy.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ac51137c942715b7decebd1e166080df",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/farmerboy.jpg",
+      "relativePath": "portfolio/farmerboy.jpg",
+      "extension": "jpg",
+      "size": 190044,
+      "prettySize": "190 kB",
+      "modifiedTime": "2021-03-31T11:13:54.647Z",
+      "accessTime": "2021-04-02T12:08:12.994Z",
+      "changeTime": "2021-04-02T12:07:58.773Z",
+      "birthTime": "2021-03-31T11:13:54.646Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "farmerboy.jpg",
+      "ext": ".jpg",
+      "name": "farmerboy",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503661,
+      "blocks": 376,
+      "atimeMs": 1617365292993.524,
+      "mtimeMs": 1617189234646.747,
+      "ctimeMs": 1617365278772.6208,
+      "birthtimeMs": 1617189234645.5461,
+      "atime": "2021-04-02T12:08:12.994Z",
+      "mtime": "2021-03-31T11:13:54.647Z",
+      "ctime": "2021-04-02T12:07:58.773Z",
+      "birthtime": "2021-03-31T11:13:54.646Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-console.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "dc53e451be2267be73395b7022b23956",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-console.jpg",
+      "relativePath": "portfolio/modals/m-console.jpg",
+      "extension": "jpg",
+      "size": 195994,
+      "prettySize": "196 kB",
+      "modifiedTime": "2021-03-31T11:13:54.651Z",
+      "accessTime": "2021-04-02T12:08:12.995Z",
+      "changeTime": "2021-04-02T12:07:58.779Z",
+      "birthTime": "2021-03-31T11:13:54.650Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-console.jpg",
+      "ext": ".jpg",
+      "name": "m-console",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503668,
+      "blocks": 384,
+      "atimeMs": 1617365292994.8655,
+      "mtimeMs": 1617189234651.0015,
+      "ctimeMs": 1617365278778.5132,
+      "birthtimeMs": 1617189234650.209,
+      "atime": "2021-04-02T12:08:12.995Z",
+      "mtime": "2021-03-31T11:13:54.651Z",
+      "ctime": "2021-04-02T12:07:58.779Z",
+      "birthtime": "2021-03-31T11:13:54.650Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "91b65a93128ed7ef064fad7cdf859e69",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-retrocam.jpg",
+      "relativePath": "portfolio/modals/m-retrocam.jpg",
+      "extension": "jpg",
+      "size": 214981,
+      "prettySize": "215 kB",
+      "modifiedTime": "2021-03-31T11:13:54.658Z",
+      "accessTime": "2021-04-02T12:08:12.997Z",
+      "changeTime": "2021-04-02T12:07:58.783Z",
+      "birthTime": "2021-03-31T11:13:54.657Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-retrocam.jpg",
+      "ext": ".jpg",
+      "name": "m-retrocam",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503672,
+      "blocks": 424,
+      "atimeMs": 1617365292997.0244,
+      "mtimeMs": 1617189234658.0137,
+      "ctimeMs": 1617365278782.796,
+      "birthtimeMs": 1617189234656.9617,
+      "atime": "2021-04-02T12:08:12.997Z",
+      "mtime": "2021-03-31T11:13:54.658Z",
+      "ctime": "2021-04-02T12:07:58.783Z",
+      "birthtime": "2021-03-31T11:13:54.657Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-girl.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-girl.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cca489424290988698ceb5e8c5552189",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-girl.jpg",
+      "relativePath": "portfolio/modals/m-girl.jpg",
+      "extension": "jpg",
+      "size": 231027,
+      "prettySize": "231 kB",
+      "modifiedTime": "2021-03-31T11:13:54.654Z",
+      "accessTime": "2021-04-02T12:08:12.996Z",
+      "changeTime": "2021-04-02T12:07:58.782Z",
+      "birthTime": "2021-03-31T11:13:54.653Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-girl.jpg",
+      "ext": ".jpg",
+      "name": "m-girl",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503671,
+      "blocks": 456,
+      "atimeMs": 1617365292995.6829,
+      "mtimeMs": 1617189234654.237,
+      "ctimeMs": 1617365278781.8708,
+      "birthtimeMs": 1617189234653.4949,
+      "atime": "2021-04-02T12:08:12.996Z",
+      "mtime": "2021-03-31T11:13:54.654Z",
+      "ctime": "2021-04-02T12:07:58.782Z",
+      "birthtime": "2021-03-31T11:13:54.653Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/girl.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/girl.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/girl.jpg absPath of file",
+      "internal": {
+        "contentDigest": "a95478b7f3fbeb159495ca2d36a6ccb7",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/retrocam.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/retrocam.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "522192d97b644075d576df8f7f58f3a0",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/retrocam.jpg",
+      "relativePath": "portfolio/retrocam.jpg",
+      "extension": "jpg",
+      "size": 176219,
+      "prettySize": "176 kB",
+      "modifiedTime": "2021-03-31T11:13:54.660Z",
+      "accessTime": "2021-04-02T12:08:12.998Z",
+      "changeTime": "2021-04-02T12:07:58.774Z",
+      "birthTime": "2021-03-31T11:13:54.659Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio",
+      "base": "retrocam.jpg",
+      "ext": ".jpg",
+      "name": "retrocam",
+      "relativeDirectory": "portfolio",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503662,
+      "blocks": 352,
+      "atimeMs": 1617365292997.582,
+      "mtimeMs": 1617189234660.1543,
+      "ctimeMs": 1617365278773.9858,
+      "birthtimeMs": 1617189234659.1064,
+      "atime": "2021-04-02T12:08:12.998Z",
+      "mtime": "2021-03-31T11:13:54.660Z",
+      "ctime": "2021-04-02T12:07:58.774Z",
+      "birthtime": "2021-03-31T11:13:54.659Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "38ce1edce458e6aa5b93aae738cd8caa",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-farmerboy.jpg",
+      "relativePath": "portfolio/modals/m-farmerboy.jpg",
+      "extension": "jpg",
+      "size": 252567,
+      "prettySize": "253 kB",
+      "modifiedTime": "2021-03-31T11:13:54.653Z",
+      "accessTime": "2021-04-02T12:08:12.995Z",
+      "changeTime": "2021-04-02T12:07:58.784Z",
+      "birthTime": "2021-03-31T11:13:54.651Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-farmerboy.jpg",
+      "ext": ".jpg",
+      "name": "m-farmerboy",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503673,
+      "blocks": 496,
+      "atimeMs": 1617365292995.2266,
+      "mtimeMs": 1617189234653.0093,
+      "ctimeMs": 1617365278783.681,
+      "birthtimeMs": 1617189234651.4429,
+      "atime": "2021-04-02T12:08:12.995Z",
+      "mtime": "2021-03-31T11:13:54.653Z",
+      "ctime": "2021-04-02T12:07:58.784Z",
+      "birthtime": "2021-03-31T11:13:54.651Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/judah.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/judah.jpg absPath of file",
+      "internal": {
+        "contentDigest": "f5bf96d39756b9a7267076a3b81a5e98",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/farmerboy.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/farmerboy.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/farmerboy.jpg absPath of file",
+      "internal": {
+        "contentDigest": "ac51137c942715b7decebd1e166080df",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-console.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-console.jpg absPath of file",
+      "internal": {
+        "contentDigest": "dc53e451be2267be73395b7022b23956",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-retrocam.jpg absPath of file",
+      "internal": {
+        "contentDigest": "91b65a93128ed7ef064fad7cdf859e69",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-girl.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-girl.jpg absPath of file",
+      "internal": {
+        "contentDigest": "cca489424290988698ceb5e8c5552189",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-judah.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-judah.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-judah.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d0599ca57ac4b7531f0d4c30fdc7a2b9",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-judah.jpg",
+      "relativePath": "portfolio/modals/m-judah.jpg",
+      "extension": "jpg",
+      "size": 296894,
+      "prettySize": "297 kB",
+      "modifiedTime": "2021-03-31T11:13:54.656Z",
+      "accessTime": "2021-04-02T12:08:12.996Z",
+      "changeTime": "2021-04-02T12:07:58.778Z",
+      "birthTime": "2021-03-31T11:13:54.655Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals",
+      "base": "m-judah.jpg",
+      "ext": ".jpg",
+      "name": "m-judah",
+      "relativeDirectory": "portfolio/modals",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503667,
+      "blocks": 584,
+      "atimeMs": 1617365292996.3267,
+      "mtimeMs": 1617189234655.9385,
+      "ctimeMs": 1617365278777.549,
+      "birthtimeMs": 1617189234655.236,
+      "atime": "2021-04-02T12:08:12.996Z",
+      "mtime": "2021-03-31T11:13:54.656Z",
+      "ctime": "2021-04-02T12:07:58.778Z",
+      "birthtime": "2021-03-31T11:13:54.655Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/retrocam.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/retrocam.jpg absPath of file",
+      "internal": {
+        "contentDigest": "522192d97b644075d576df8f7f58f3a0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-farmerboy.jpg absPath of file",
+      "internal": {
+        "contentDigest": "38ce1edce458e6aa5b93aae738cd8caa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-judah.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-judah.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/portfolio/modals/m-judah.jpg absPath of file",
+      "internal": {
+        "contentDigest": "d0599ca57ac4b7531f0d4c30fdc7a2b9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/header-background.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/header-background.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/header-background.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "395df93f3a2d8a841031e95505e05fa4",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/header-background.jpg",
+      "relativePath": "header-background.jpg",
+      "extension": "jpg",
+      "size": 534867,
+      "prettySize": "535 kB",
+      "modifiedTime": "2021-03-31T11:13:54.641Z",
+      "accessTime": "2021-04-02T12:08:12.992Z",
+      "changeTime": "2021-04-02T12:07:58.770Z",
+      "birthTime": "2021-03-31T11:13:54.637Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "header-background.jpg",
+      "ext": ".jpg",
+      "name": "header-background",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503658,
+      "blocks": 1048,
+      "atimeMs": 1617365292992.1357,
+      "mtimeMs": 1617189234640.7795,
+      "ctimeMs": 1617365278769.9211,
+      "birthtimeMs": 1617189234637.2256,
+      "atime": "2021-04-02T12:08:12.992Z",
+      "mtime": "2021-03-31T11:13:54.641Z",
+      "ctime": "2021-04-02T12:07:58.770Z",
+      "birthtime": "2021-03-31T11:13:54.637Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/header-background.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/header-background.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/header-background.jpg absPath of file",
+      "internal": {
+        "contentDigest": "395df93f3a2d8a841031e95505e05fa4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/testimonials-bg.jpg absPath of file": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/testimonials-bg.jpg absPath of file",
+      "children": [
+        "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/testimonials-bg.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f063209a66807e69329fada1e2590674",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/testimonials-bg.jpg",
+      "relativePath": "testimonials-bg.jpg",
+      "extension": "jpg",
+      "size": 812011,
+      "prettySize": "812 kB",
+      "modifiedTime": "2021-03-31T11:13:54.666Z",
+      "accessTime": "2021-04-02T12:08:12.998Z",
+      "changeTime": "2021-04-02T12:07:58.763Z",
+      "birthTime": "2021-03-31T11:13:54.661Z",
+      "root": "/",
+      "dir": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images",
+      "base": "testimonials-bg.jpg",
+      "ext": ".jpg",
+      "name": "testimonials-bg",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5503654,
+      "blocks": 1592,
+      "atimeMs": 1617365292998.0159,
+      "mtimeMs": 1617189234665.592,
+      "ctimeMs": 1617365278762.914,
+      "birthtimeMs": 1617189234660.9182,
+      "atime": "2021-04-02T12:08:12.998Z",
+      "mtime": "2021-03-31T11:13:54.666Z",
+      "ctime": "2021-04-02T12:07:58.763Z",
+      "birthtime": "2021-03-31T11:13:54.661Z"
+    },
+    "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/testimonials-bg.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/testimonials-bg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/haroonrashid/Documents/new/crispy-enigma/src/assets/images/testimonials-bg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "f063209a66807e69329fada1e2590674",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1617365293724,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d8ec09902029a59c536274df0ed9a6b5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1617365293725,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bc132de5a02b61f23eb8bde911126cfb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1617365293728,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/haroonrashid/Documents/new/crispy-enigma/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d8c91f35b76fef003929342db6309d49",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "2c874ad28e9bc139b4381fdfaf8244a0"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
